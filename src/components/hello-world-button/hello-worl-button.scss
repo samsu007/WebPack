@@ -1,0 +1,15 @@
+$color: red;
+$text-color: blue;
+
+.hello-world-button {
+    font-size: 20px;
+    padding: 20px;
+    background-color: $color;
+    color: white;
+    outline: none;
+}
+
+.hello-world-text {
+    color: $text-color;
+    font-weight: bold;
+} 
